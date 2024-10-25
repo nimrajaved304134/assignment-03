@@ -13,7 +13,7 @@ const Hero = () => {
   const data = [
     {
       id: 1,
-      title: " Hello, I&apos;m Nimra! ",
+      title: " Hello, I'm Nimra! ",
       description: "A tech enthusiast with a passion for building innovative solutions.",
       image: {
         src: pic2, 
